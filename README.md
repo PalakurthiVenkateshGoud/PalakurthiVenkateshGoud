@@ -108,8 +108,8 @@ I'm **Palakurthi Venkatesh Goud**, a **Data Analyst** who loves turning messy nu
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PalakurthiVenkateshGoud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalakurthiVenkateshGoud&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://raw.githubusercontent.com/PalakurthiVenkateshGoud/PalakurthiVenkateshGoud/main/profile/stats.svg" />
+  <img height="165" src="https://raw.githubusercontent.com/PalakurthiVenkateshGoud/PalakurthiVenkateshGoud/main/profile/top-langs.svg" />
 </p>
 
 <p align="center">
@@ -119,7 +119,7 @@ I'm **Palakurthi Venkatesh Goud**, a **Data Analyst** who loves turning messy nu
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PalakurthiVenkateshGoud&theme=darkhub&no-frame=true&row=1&column=7" />
+  <img src="https://raw.githubusercontent.com/PalakurthiVenkateshGoud/PalakurthiVenkateshGoud/main/profile/trophy.svg" />
 </p>
 
 ---
