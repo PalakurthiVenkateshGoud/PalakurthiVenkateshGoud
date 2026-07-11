@@ -116,12 +116,6 @@ I'm **Palakurthi Venkatesh Goud**, a **Data Analyst** who loves turning messy nu
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PalakurthiVenkateshGoud&theme=tokyonight&hide_border=true" />
 </p>
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=PalakurthiVenkateshGoud&theme=darkhub&no-frame=true&row=1&column=7" />
-</p>
-
 ---
 
 <div align="center">
