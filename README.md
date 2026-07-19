@@ -6,8 +6,6 @@
 
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=PalakurthiVenkateshGoud&label=Profile%20Views&color=6366f1&style=flat" align="right" />
-
 ---
 
 ### 👨‍💻 About Me
