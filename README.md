@@ -6,6 +6,7 @@
 
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=PalakurthiVenkateshGoud&label=Profile%20Views&color=6366f1&style=flat" align="right" />
 
 ---
 
@@ -112,7 +113,7 @@ I'm **Palakurthi Venkatesh Goud**, a **Data Analyst** who loves turning messy nu
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PalakurthiVenkateshGoud&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=PalakurthiVenkateshGoud&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
